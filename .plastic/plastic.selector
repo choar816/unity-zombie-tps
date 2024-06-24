@@ -1,0 +1,4 @@
+repository "ResidentEvil2@KRAFTON_SP2_A4@cloud"
+  path "/"
+    br "/main"
+    co "/main"
